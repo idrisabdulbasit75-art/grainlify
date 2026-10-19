@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-2008-pin-the-boundary-behaviour-of-is-circuit-open",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2008-pin-the-boundary-behaviour-of-is-circuit-open": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-2008-pin-the-boundary-behaviour-of-is-circuit-open",
+    "origin"
+  ]
+}
